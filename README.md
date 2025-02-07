@@ -1,4 +1,4 @@
-Hello! On my repo I've got three things of note I've been working on since starting this account.
+Hello! On my profile I've got three things of note I've been working on since starting this account.
 
 A) Helped fix the dark mode on the iOS (Swift) version of the open source Beeminder app, and contributed a couple of issues relating to failures discovered while using the product.
 
